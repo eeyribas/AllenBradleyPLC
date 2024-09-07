@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllenBradleyPLC", "AllenBradleyPLC.csproj", "{8993592A-8B0B-4A1D-A9DE-EBE00AA029BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibplctagWrapper", "LibplctagWrapper\LibplctagWrapper.csproj", "{394ABFC2-E570-462E-9994-37B33C348702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8993592A-8B0B-4A1D-A9DE-EBE00AA029BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8993592A-8B0B-4A1D-A9DE-EBE00AA029BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8993592A-8B0B-4A1D-A9DE-EBE00AA029BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8993592A-8B0B-4A1D-A9DE-EBE00AA029BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{394ABFC2-E570-462E-9994-37B33C348702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394ABFC2-E570-462E-9994-37B33C348702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394ABFC2-E570-462E-9994-37B33C348702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394ABFC2-E570-462E-9994-37B33C348702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CD10984-D894-46F0-9C34-76CCC8E93E8A}
+	EndGlobalSection
+EndGlobal
