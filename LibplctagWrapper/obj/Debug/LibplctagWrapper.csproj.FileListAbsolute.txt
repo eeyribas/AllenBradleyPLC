@@ -1,6 +1,0 @@
-D:\BACKUP\GitHub Calismalar\AllenBradleyPLC\LibplctagWrapper\bin\Debug\plctag.dll
-D:\BACKUP\GitHub Calismalar\AllenBradleyPLC\LibplctagWrapper\bin\Debug\LibplctagWrapper.dll
-D:\BACKUP\GitHub Calismalar\AllenBradleyPLC\LibplctagWrapper\bin\Debug\LibplctagWrapper.pdb
-D:\BACKUP\GitHub Calismalar\AllenBradleyPLC\LibplctagWrapper\obj\Debug\LibplctagWrapper.csproj.CoreCompileInputs.cache
-D:\BACKUP\GitHub Calismalar\AllenBradleyPLC\LibplctagWrapper\obj\Debug\LibplctagWrapper.dll
-D:\BACKUP\GitHub Calismalar\AllenBradleyPLC\LibplctagWrapper\obj\Debug\LibplctagWrapper.pdb

@@ -96,10 +96,10 @@ namespace AllenBradleyPLC
                     var tagValue2 = client.GetInt32Value(tag2, 0 * tag1.ElementSize);
                     var tagValue3 = client.GetInt16Value(tag3, 0 * tag1.ElementSize);
                     var tagValue4 = client.GetInt16Value(tag4, 0 * tag1.ElementSize);
-                    Console.WriteLine("TagValue1 : " + tagValue1);
-                    Console.WriteLine("TagValue2 : " + tagValue2);
-                    Console.WriteLine("TagValue3 : " + tagValue3);
-                    Console.WriteLine("TagValue4 : " + tagValue4);
+                    Console.WriteLine("Tag Value - 1 : " + tagValue1);
+                    Console.WriteLine("Tag Value - 2 : " + tagValue2);
+                    Console.WriteLine("Tag Value - 3 : " + tagValue3);
+                    Console.WriteLine("Tag Value - 4 : " + tagValue4);
                 }
 
                 // Write
